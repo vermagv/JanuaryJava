@@ -1,1 +1,1 @@
-Date File contaians class codes and assignments
+Every date folder contaians class codes and assignments
